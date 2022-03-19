@@ -19,7 +19,7 @@
 
   <p>
     <img src="https://github-readme-stats.vercel.app/api?username=aktansn&show_icons=true&theme=tokyonight" height="180">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=aktansn&layout=compact&theme=tokyonight" height="180">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=n&layout=compact&theme=tokyonight" height="180">
   </p>
 
 </details>
