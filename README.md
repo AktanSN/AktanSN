@@ -14,5 +14,5 @@
 
 <h3 align="left">Most used languages:</h3>
 
-<a href="https://github.com/AktanSN/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AktanSN&layout=compact&theme=tokyonight&hide=C%23" /></a> 
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AktanSN&layout=compact&theme=tokyonight&hide=C%23" />
 
