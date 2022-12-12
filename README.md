@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Aktan</h1>
+<h1 align="center">Hi 👋, I'm İbrahim Aktan Sanhal</h1>
 <h3 align="center">I'm a student in the Faculty of Engineering at the University of Suleyman Demirel.</h3>
 
 - 📫 How to reach me **aktansanhal@gmail.com**
